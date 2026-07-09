@@ -1,0 +1,16 @@
+{
+  "schema": 2,
+  "channel": "stable",
+  "runtime": {
+    "version": "1.2.38",
+    "package": "runtime/blob-002.dat",
+    "sha256": "e95b739848b402853ccfcfc76a05575878c923eea306d13a7d37408cf6e29ee7",
+    "format": "ptc-v1"
+  },
+  "catalog": {
+    "package": "data/blob-001.dat",
+    "sha256": "651632d860f83fda9a5563b07fea7dbe235822ecb8c3a7c4c8d80242ca8f1495",
+    "format": "ptc-v1"
+  },
+  "notice": "Distribution channel."
+}
