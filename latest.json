@@ -1,16 +1,41 @@
 {
-  "schema": 2,
-  "channel": "stable",
-  "runtime": {
-    "version": "1.2.38",
-    "package": "runtime/blob-002.dat",
-    "sha256": "e95b739848b402853ccfcfc76a05575878c923eea306d13a7d37408cf6e29ee7",
-    "format": "ptc-v1"
+  "payload": {
+    "schema": 2,
+    "type": "spc-release-manifest",
+    "channel": "stable",
+    "sequence": 3,
+    "issuedAt": 1784255509,
+    "notBefore": 1784255449,
+    "expiresAt": 1799807509,
+    "runtime": {
+      "package": "runtime/blob-72fe368cf67bb00fca9d1826.dat",
+      "format": "spc2",
+      "keyRef": "runtime:1.2.42:3",
+      "cipherSha256": "72fe368cf67bb00fca9d1826bc6e46930fd292c4f38f395e5a52f563c60049d4",
+      "plainSha256": "3c311804c4855e4faa6a4b3182683641262ad79cd61b702a5f077f1ade806148",
+      "plainSize": 66702,
+      "version": "1.2.42"
+    },
+    "catalog": {
+      "package": "data/blob-8278e65c29c61601de7e5338.dat",
+      "format": "spc2",
+      "keyRef": "catalog:stable:3",
+      "cipherSha256": "8278e65c29c61601de7e5338f84da9b354f363988691d3fbdd1d855a30353d47",
+      "plainSha256": "2975ae4bf6c426d831512aac09c74c2a6c889fc0ad7c469c128b752ddeb430af",
+      "plainSize": 2458
+    },
+    "notice": "Private test channel."
   },
-  "catalog": {
-    "package": "data/blob-001.dat",
-    "sha256": "651632d860f83fda9a5563b07fea7dbe235822ecb8c3a7c4c8d80242ca8f1495",
-    "format": "ptc-v1"
-  },
-  "notice": "Distribution channel."
+  "signatures": [
+    {
+      "algorithm": "ed25519",
+      "keyId": "sha256:ac305b375621760e394d780a",
+      "value": "nL9lm9bvzek6rak7C2hfn7pFQUdsCL5Vf_qBEv_AjMeDaRJ-FlZRlpIIvhdB-2c6t2LdlOe3QtXo-eZgLu4CDA"
+    },
+    {
+      "algorithm": "rsa-sha256",
+      "keyId": "sha256:f65b8fbdd67e44725d4e6a73",
+      "value": "EqSYnug0U0sYqhb_stltvDOj2eg-jtZuu_QePtfF3p_RuwVu2TcKMlibwtyspiN1Elwz1bcZFZF5SvX3mo3ZN8b_WXC2ABOV6RQNmELzWMX2R1IWPzqkXTChhSyyE5ESON4cMKC_XMumpSZmlgb6I1W7E9Z8o476TiEnpfq45Pon_do4o3l1ewHMhs0NmQH2K358N-hLft9yROr2EuJgONAWEdKqxV8fBPYzQefYH5cERAZVu6DnfdELaWgQy_BNmNT0slpdXxtizJ7ND10B_h4DuEjHYUuFDDm2xIev1x1YMEnypPHK2F4GGHBgYMaG-YbdrSlMq98eGvtSRlnAlBrRkZIsv3wgIqjdCbrx5SnNOoGlCTTFZWJ8hpqebMwl8aa5VUyPXhCZAfuwuVAOVo3Ixe3uyO5eMBQFbCypXmlQt4aTkcLEKqMkBBp-5JN0EmBe1y99dQ8tH9J2tuQumMfqbYgpKJBukjODEacjYygLYjPqFNGvtMl8deFVdf92"
+    }
+  ]
 }
