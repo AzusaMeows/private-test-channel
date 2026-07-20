@@ -3,26 +3,26 @@
     "schema": 2,
     "type": "spc-release-manifest",
     "channel": "stable",
-    "sequence": 3,
-    "issuedAt": 1784255509,
-    "notBefore": 1784255449,
-    "expiresAt": 1799807509,
+    "sequence": 4,
+    "issuedAt": 1784534534,
+    "notBefore": 1784534474,
+    "expiresAt": 1800086534,
     "runtime": {
-      "package": "runtime/blob-72fe368cf67bb00fca9d1826.dat",
+      "package": "runtime/blob-34aecbbd1fea77f53d5b6f68.dat",
       "format": "spc2",
-      "keyRef": "runtime:1.2.42:3",
-      "cipherSha256": "72fe368cf67bb00fca9d1826bc6e46930fd292c4f38f395e5a52f563c60049d4",
-      "plainSha256": "3c311804c4855e4faa6a4b3182683641262ad79cd61b702a5f077f1ade806148",
-      "plainSize": 66702,
-      "version": "1.2.42"
+      "keyRef": "runtime:1.2.43:4",
+      "cipherSha256": "34aecbbd1fea77f53d5b6f68522190feace62db098ff961fd28b8373216c4714",
+      "plainSha256": "6f49de55cd58d70c9df4ca40acb1e53c2344e1e211edaae9640b089769ffbbc7",
+      "plainSize": 68783,
+      "version": "1.2.43"
     },
     "catalog": {
-      "package": "data/blob-8278e65c29c61601de7e5338.dat",
+      "package": "data/blob-b772eab77dd2a37bae24daaf.dat",
       "format": "spc2",
-      "keyRef": "catalog:stable:3",
-      "cipherSha256": "8278e65c29c61601de7e5338f84da9b354f363988691d3fbdd1d855a30353d47",
-      "plainSha256": "2975ae4bf6c426d831512aac09c74c2a6c889fc0ad7c469c128b752ddeb430af",
-      "plainSize": 2458
+      "keyRef": "catalog:stable:4",
+      "cipherSha256": "b772eab77dd2a37bae24daafe03d4de1754c4d551c595f41f1ae5358ae3f372b",
+      "plainSha256": "af365b220019b3474da371c1e874230c046f2d69423275498f3d4960ffcc0f24",
+      "plainSize": 4196
     },
     "notice": "Private test channel."
   },
@@ -30,12 +30,12 @@
     {
       "algorithm": "ed25519",
       "keyId": "sha256:ac305b375621760e394d780a",
-      "value": "nL9lm9bvzek6rak7C2hfn7pFQUdsCL5Vf_qBEv_AjMeDaRJ-FlZRlpIIvhdB-2c6t2LdlOe3QtXo-eZgLu4CDA"
+      "value": "Guab6tew5svlWeFKDKCAZk80P8vwxOmSRuKEhTSOJhDb7ujQ3RrGZmEGVap3nyko0GykomRCboja8fOUJVV3DQ"
     },
     {
       "algorithm": "rsa-sha256",
       "keyId": "sha256:f65b8fbdd67e44725d4e6a73",
-      "value": "EqSYnug0U0sYqhb_stltvDOj2eg-jtZuu_QePtfF3p_RuwVu2TcKMlibwtyspiN1Elwz1bcZFZF5SvX3mo3ZN8b_WXC2ABOV6RQNmELzWMX2R1IWPzqkXTChhSyyE5ESON4cMKC_XMumpSZmlgb6I1W7E9Z8o476TiEnpfq45Pon_do4o3l1ewHMhs0NmQH2K358N-hLft9yROr2EuJgONAWEdKqxV8fBPYzQefYH5cERAZVu6DnfdELaWgQy_BNmNT0slpdXxtizJ7ND10B_h4DuEjHYUuFDDm2xIev1x1YMEnypPHK2F4GGHBgYMaG-YbdrSlMq98eGvtSRlnAlBrRkZIsv3wgIqjdCbrx5SnNOoGlCTTFZWJ8hpqebMwl8aa5VUyPXhCZAfuwuVAOVo3Ixe3uyO5eMBQFbCypXmlQt4aTkcLEKqMkBBp-5JN0EmBe1y99dQ8tH9J2tuQumMfqbYgpKJBukjODEacjYygLYjPqFNGvtMl8deFVdf92"
+      "value": "WzOABM8diO1dZ4cu6zE0arUFziAmQPZKETNKCeTjR2lLK7FozjoBDEG-hcrbdd7NUMLxnf-4-rwuLVaMbZu3GywUFm2yfSpQDw4NN0yQi3L9yD10PwYT03oJortMSVJpXArP8c4TtsRuu_mA0DNyRnovEkQboGjZR38xHGs2nOyN-5L9xzqtuS9ivr72MCt9wA4409rGewYCYxeI4vVw57Ci4HnqaqWRF86fnAKi1XnCIf7K1HTf5F2XRaYuGwPZIG5s3A07b7fV_EQXneikvn1PcI9hwZ1g8qHRqd9FwbARrG6P3kiID5rZfuKmvvdjpL93vpoV8utp9gPtnf0dcSNiLPx3gC6WpPqYzawy7Q8OAsMUN41StltPRNfs4_L_yxWd9qxpAKCBTbnwQSlQ3Tn26coHI7EshT1KaSGof1ZfrnIYQjJOfa3oDBXCWd8gdyR-zH_xZTzMZU6dl3NxjJZ2ZDu78G4AURqES1ALKd9WP9xZBg0ahm2__V77fTLJ"
     }
   ]
 }
