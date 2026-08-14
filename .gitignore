@@ -1,0 +1,11 @@
+*
+!.gitignore
+!latest.json
+!data/
+!data/blob-*.dat
+!package/
+!package/blob-*.dat
+!runtime/
+!runtime/blob-*.dat
+!media/
+!media/blob-*.part-*.dat

@@ -1,0 +1,41 @@
+{
+  "payload": {
+    "schema": 2,
+    "type": "spc-release-manifest",
+    "channel": "stable",
+    "sequence": 8,
+    "issuedAt": 1786677630,
+    "notBefore": 1786677570,
+    "expiresAt": 1802229630,
+    "runtime": {
+      "package": "runtime/blob-da345954c36354fae6d8cf58.dat",
+      "format": "spc2",
+      "keyRef": "content:m2QC87v2a2SMDJkMShr7kmg7",
+      "cipherSha256": "da345954c36354fae6d8cf585875b57f49dcfc50fe088d1db0b75ffa6573969c",
+      "plainSha256": "ab1c48a971298cb7445fe6766437610be96c8707e764f7cb8e065dfa59e6c2fa",
+      "plainSize": 84197,
+      "version": "1.2.58"
+    },
+    "catalog": {
+      "package": "data/blob-2f9cf7cc7dc71e00beff83cf.dat",
+      "format": "spc2",
+      "keyRef": "content:8DIAXyNnNFGOqlSUUzXDht-L",
+      "cipherSha256": "2f9cf7cc7dc71e00beff83cf9065520b31777b2bc2bd9e8b7f11db5907fb9cbe",
+      "plainSha256": "ff22d5ce93f1028cecbfd1b8a4f4f178ba237b4665955a8ca6149055475234a2",
+      "plainSize": 4662
+    },
+    "notice": "Private test channel."
+  },
+  "signatures": [
+    {
+      "algorithm": "ed25519",
+      "keyId": "sha256:ac305b375621760e394d780a",
+      "value": "8q_J04RrTSEei-DeO4hxfWfFy1ya3DlV_7Ok54oe2dZCjj_CXhwZrMMdfWy_sDKC4VZSa5lWevqr5CTnpXGbAg"
+    },
+    {
+      "algorithm": "rsa-sha256",
+      "keyId": "sha256:f65b8fbdd67e44725d4e6a73",
+      "value": "KkYRCkGHM0wN01Z92IOUZPGDJkxFr2Rzuy2Iq3dYOgbDjx6Sk7qVWJbLGbGRe4uwPMM0TreG6sr_1MC5OkBCX0bn0P7Rhz-phN5F16UfsDVlf7oyKZPGyfmsIF2uqgpBS3-j51HletRjcR-QQkkQH4YxdS559t7H6EKct_Bh3w6rOTwCP32eC63XylNpGo-YGoHNKxUxCi73kOBdUBzwD9NfGgNR6vEvgOWmCVRsplQp18JHC1xsdEeVVYKyKltp6MC2DYI8i5__qjus_djej46_hgv_OdRKHl6mCy_JKuZSXIuAqTcK-ZQfHMRSzX5WmiRT4VOzFT1BOLjBSGTvmwSk7r5ZoAMOnNM2Ktn3rLTJ-EJRG0Ub60CQ-UtU8bv3sEhuMnbcWO3tRHJCI7bD-2nQiP0YcmyAD6mu7he0VWxeqJaVRe658Ko4WTo-2UcwUpfknnWOiLhUSjnmnW4SLhzpusolj-WLfgtHcU4ufnq0CUhFshlBcfq79FT1rtQ_"
+    }
+  ]
+}
