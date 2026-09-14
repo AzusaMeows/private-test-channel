@@ -3,25 +3,25 @@
     "schema": 2,
     "type": "spc-release-manifest",
     "channel": "stable",
-    "sequence": 12,
-    "issuedAt": 1789119208,
-    "notBefore": 1789119148,
-    "expiresAt": 1804671208,
+    "sequence": 13,
+    "issuedAt": 1789356279,
+    "notBefore": 1789356219,
+    "expiresAt": 1804908279,
     "runtime": {
-      "package": "runtime/blob-f04c2dd5042ebf0be714a543.dat",
+      "package": "runtime/blob-32b03e2a53b18b50dcc79df5.dat",
       "format": "spc2",
-      "keyRef": "content:pfyIYLcfQQWFYsseDeZE9iyz",
-      "cipherSha256": "f04c2dd5042ebf0be714a5436e03bf0ae3f270e7745964ae859f4db989ad806f",
-      "plainSha256": "16c8f8e953274a7e60b8073a003b6b24750b4cde1642d4e80ca69ea935219845",
-      "plainSize": 86894,
-      "version": "1.2.63"
+      "keyRef": "content:hVwN2KaK0jh9sk9fhEcgHz2l",
+      "cipherSha256": "32b03e2a53b18b50dcc79df59747f1faf1bab15901d52085a5e567be07171dc2",
+      "plainSha256": "3f333eb28e50581eb3ddbd9ca2edebafb6786a28c5b1a7d37e44b9eb5aad0f70",
+      "plainSize": 87073,
+      "version": "1.2.65"
     },
     "catalog": {
-      "package": "data/blob-10e47a3831cca2b03db69ad1.dat",
+      "package": "data/blob-ee8c59b206b245fd749472f3.dat",
       "format": "spc2",
-      "keyRef": "content:J6geZ4tqWG0z4R8O1R6DYkQC",
-      "cipherSha256": "10e47a3831cca2b03db69ad18813fa4b3ec573cf0468e51616e33587c8b72bdc",
-      "plainSha256": "585efc3d906346ea54e8c78ec78ce5ad303dcba51b43f3e3113097fcbbd930bc",
+      "keyRef": "content:vsen4ru5MzM5bNXKDhbEvfDl",
+      "cipherSha256": "ee8c59b206b245fd749472f30b82d29564fdfae73f3aec9a06ad80bc36850f81",
+      "plainSha256": "ab1a775833e9ad904dbf8fdbfe27115dfe612446712068e7c3e786571eccd279",
       "plainSize": 9636
     },
     "notice": "Private test channel."
@@ -30,7 +30,7 @@
     {
       "algorithm": "rsa-sha256",
       "keyId": "sha256:f65b8fbdd67e44725d4e6a73",
-      "value": "mwe4-5-dhmK8NcV-8QgzB4xUvQZNOC7lkQsXQ8YTxreJ4OdQuzjI7hgfoUyc-zgeUpU8FfcO9qScK3QucEUm6kZhhs3OdS4o9HraN99GmXNLuRI7dvaRK74uLhg4tLNmfAEOZowQknRTl2Rt6-r5q0tSj4r8X_iTgMdn1UAXQfC5TnqW1t-qcruFdfxWhWGhW61UKgGKSK4Axk3zuWt1AS7quXfN1OudfHYPwLHZZugkwTR4CJpSNi4uAcrqG396FextamDP1Caug35bfC3WN_8ZX0I0lQwMYaAxwmKgrdtsHiIdqTX_NH2MZCDKDHWYcm_CwKEIGK2aX-8kKm63I9NsxkSR6cksQfltddSTSjkrKDxfza8IO2x3LLSA594jqbBv6zI3zF4pfoiKp2qcbiNDXEPSLJgrWA9jy5IiVIRC2sjCMvDWTJBMmcPxPdiXb2fpwAng--6oC5lafXycgyrLL1RXVMIVmdBrwg0DbXinqamtQLUKqnF-bDAmuw-v"
+      "value": "d1MTxRxJ3DxWaao0q7gvWZs2nC3W9tkcNqeR2SBwKyovOu8BQdqrbEyytm4UcTVzjZ9BdFivPJiXrC4fNd42lNowY9ETUbfrlc4XjspUyNwf7fkpE-uxAkBGeev7JXUCnhrdN0yMcS83WXmet7xU-qQsgYz5CCO44bWQfRyWH2705A0AsMcU_Eojch6d55GIXvq8C5MzkssKyNkSuC5aii5gFcvWFALu-6RIyYem6Ff6YKo6B0M1ntrzShzILpCLNfGsTTLnl8y27FNRPd46ia1rTQqtS6TmHwTP4AfTBXz5neyfEJs_kHKP-qJNT11-tAsZMerTaEhXgBGKSuARKRXhyFS9iY8jKHzMpwtmpH5d88PPY5pvZ9ZxwxFJ3_IyQ08f6LMfMf0JnocYKefvZKjwwp5Tg_3DbxYRumLlTbozMwxwoP3dnlwjFxuXt5_ETX2pJqK8d6ACbpt1CLvmIx5NuGuGEMeEr4_VaOYDG711fxm78pFZS99L7m7okROQ"
     }
   ]
 }
