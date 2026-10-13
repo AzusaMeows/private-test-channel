@@ -3,10 +3,10 @@
     "schema": 2,
     "type": "spc-release-manifest",
     "channel": "stable",
-    "sequence": 15,
-    "issuedAt": 1791777990,
-    "notBefore": 1791777930,
-    "expiresAt": 1807329990,
+    "sequence": 16,
+    "issuedAt": 1791874152,
+    "notBefore": 1791874092,
+    "expiresAt": 1807426152,
     "runtime": {
       "package": "runtime/blob-7a76232e1fa93fd305971883.dat",
       "format": "spc2",
@@ -17,12 +17,12 @@
       "version": "1.2.68"
     },
     "catalog": {
-      "package": "data/blob-4f558fd44c81c0bb569ad572.dat",
+      "package": "data/blob-7364eae1685fc8d43d235162.dat",
       "format": "spc2",
-      "keyRef": "content:9UEPkinxzY_qnOAsAf7JkRrC",
-      "cipherSha256": "4f558fd44c81c0bb569ad572f72e5296cfd59d68bd713dc602a2c151ce48c858",
-      "plainSha256": "2a429ba63ab4de03f664d43e112c0ba6f8e8ceda0defbd1f3670bace4b64780b",
-      "plainSize": 9636
+      "keyRef": "content:HfSoSivMTQEz-Me9KXZ37RUq",
+      "cipherSha256": "7364eae1685fc8d43d23516240ba109d58544ab0a2996b1fac5f2fde7c5a0660",
+      "plainSha256": "0b6bb400512e83a19c5ca35f466f67bdc57be12c82e0157f995ca3adf684d2ce",
+      "plainSize": 9356
     },
     "notice": "Private test channel."
   },
@@ -30,7 +30,7 @@
     {
       "algorithm": "rsa-sha256",
       "keyId": "sha256:f65b8fbdd67e44725d4e6a73",
-      "value": "ckinW11oy6rvHbd3zVcAw0rMyd9nq3prHf96_0pYZD5VbwbS4k1jGkwBNF7Nb8acAek77TBLhPBBD2VMWrs8Fg_lWbGYMJGknQjOcAjOM5byLTYIER67YYykiy5GKgtalvg8whgJoP3G7EKk-EyqETSwLmDhDDQxATwnDBc2StEw8Re7JSxEW8rjALFlKJ91kLh7DS2imsMpZn7YNcaFz38STAsZH3ThtXb40hNulf7PDftRTeFQpV6LYgo9Tje87pX0cYxLCQ8m0_vKzJSPCJl2PT1sVShaBk_rKjAcbdChzCzIClYRpJgrz7M8czfbV1DhWcREQgANEdLK5oZnYbW1wb27jfmzM9b_YGYESKwhNrkyFrzj-u-aDDu92fKbzs9NGqajnoWPdx7gKq1LGgBqRYjHL6nY0WYr_mD10v_opodQszFA91NqdabrXq7bYEKdYm4E5Q9lIeFs_fMi5xwarinc8gq9mqEY58K2ppd7L-nsfA5SyG4Rka6ogwDa"
+      "value": "qCEWTMQ9RYjSmJPJjImR3FupQApcdbK2YMhW2TsFtHdNZaiZMYk6AhgDB5m7Yu9gWsNCY7aFk9QRybci82VuVpnnPcQZiiZhXGDj3svn3d0Mm-FA-zmE4DUiEtYAponi_gbbq6Hx9l8etBx2XZvyjJNRkH9PhxSnIUtBjGbHmxproPOidy9t3Qdp9BG02cnXsA0dCkKIQbSTAJKKzk75fY8jUGqVyd4DeRbSHh764qPPmGrpWT23_BAqO4w-HZScS8Zrvsns0KUYpjLXr1SNFHkWlG-L6kAr36khMUBS0T3nKX3lFH6dm_euQAofTk5LMpvtlr0QyD8L43Ct-Gu_7Ckho6edycB66Cit__Pwh7Fwp9jU7Yz9V0CcMwckWf1vmge2Kw4xt8wNHXdMmkrsAhvfjMGKhQFxs7Yh2QQwr8RD23r10JhozxoDtkN2cf2NHChBI6NdCJDFWgA5aHxQV8eaxIwQMbqRJTL7A-NTIhiL14dJCKyCF7V1-_kxLzTa"
     }
   ]
 }
